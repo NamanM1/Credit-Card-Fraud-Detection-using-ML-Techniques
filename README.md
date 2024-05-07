@@ -6,6 +6,8 @@ Credit card fraud is a significant concern for both financial institutions and c
 # Methodology
 We employ a dataset containing credit card transactions labeled as fraudulent or genuine. We preprocess the data, extract relevant features, and train several machine learning models, including logistic regression, random forest, Support vector Machines , AdaBoost and neural networks. We evaluate the performance of each model using metrics such as accuracy, precision, recall, and F1 score.
 
+Data : https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
 
 # Results
 Our experiments demonstrate that the random forest model outperforms other algorithms with an accuracy of 99.97\%. However, all models achieve high accuracy in detecting fraudulent transactions. We provide detailed analysis and comparison of the results in this section.
